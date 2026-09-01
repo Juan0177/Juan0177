@@ -6,6 +6,7 @@
 			<h3>Gianni Nacu / Gianni0177</h3>
 			<p>Exploring, building small things, and turning weekend ideas into working projects.</p>
 			<p>
+				<a href="https://discord.com/users/803347510655320135"><img src="https://img.shields.io/badge/Discord-GX0177%233415-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: GX0177#3415"></a>
 				<a href="https://t.me/gianni_0177"><img src="https://img.shields.io/badge/Telegram-gianni__0177-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: gianni_0177"></a>
 				<a href="https://gianni0177.github.io/JuanLab/"><img src="https://img.shields.io/badge/JuanLab-Live%20site-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="JuanLab live site"></a>
 			</p>
@@ -64,5 +65,5 @@ Right now I mostly play with:
 <hr>
 
 <p align="center">
-	Discord: <code>GX0177#3415</code> | Telegram: <a href="https://t.me/gianni_0177">@gianni_0177</a>
+	Discord: <a href="https://discord.com/users/803347510655320135"><code>GX0177#3415</code></a> | Telegram: <a href="https://t.me/gianni_0177">@gianni_0177</a>
 </p>
