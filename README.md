@@ -3,7 +3,7 @@
 <table>
 	<tr>
 		<td width="58%" valign="middle">
-			<h3>Gianni Nacu / Gianni0177</h3>
+			<h3>Gianni Nacu / Juan0177</h3>
 			<p>Exploring, building small things, and turning weekend ideas into working projects.</p>
 			<p>
 				<a href="https://discord.com/users/803347510655320135"><img src="https://img.shields.io/badge/Discord-GX0177%233415-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: GX0177#3415"></a>
