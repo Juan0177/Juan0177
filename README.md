@@ -1,17 +1,37 @@
-<div align="center">
+<h1 align="center">Hi! I'm Gianni AKA Juan</h1>
 
-# Hi! I'm Gianni AKA Juan
+<table>
+	<tr>
+		<td width="58%" valign="middle">
+			<h3>Gianni Nacu / Gianni0177</h3>
+			<p>Exploring, building small things, and turning weekend ideas into working projects.</p>
+			<p>
+				<a href="https://t.me/gianni_0177"><img src="https://img.shields.io/badge/Telegram-gianni__0177-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: gianni_0177"></a>
+				<a href="https://gianni0177.github.io/JuanLab/"><img src="https://img.shields.io/badge/JuanLab-Live%20site-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="JuanLab live site"></a>
+			</p>
+	</td>
+	<td width="42%" align="center" valign="middle">
+		<img src="assets/img/Juan_the%20mystical%20horse.jpg" alt="Juan, the mystical horse on the balcony" width="260">
+	</td>
+	</tr>
+</table>
 
-<img src="assets/img/Juan_the%20mystical%20horse.jpg" alt="Juan, the mystical horse" width="520">
-
-### Gianni Nacu / Gianni0177
-
-Exploring, building small things, and turning weekend ideas into working projects.
-
-[![Telegram](https://img.shields.io/badge/Telegram-gianni__0177-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gianni_0177)
-[![GitHub Pages](https://img.shields.io/badge/JuanLab-Live%20site-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://gianni0177.github.io/JuanLab/)
-
-</div>
+<table>
+	<tr>
+		<td width="50%" valign="top">
+			<h3>JuanLab</h3>
+			<p>Personal GitHub Pages site for guides, rotations, notes, and experiments.</p>
+			<p><strong>JavaScript • CSS • HTML</strong></p>
+			<a href="https://github.com/Gianni0177/JuanLab">Repository</a> · <a href="https://gianni0177.github.io/JuanLab/">Live site</a>
+		</td>
+		<td width="50%" valign="top">
+			<h3>Local-format-converter</h3>
+			<p>Simple local multi-format converter, still evolving while it learns new tricks.</p>
+			<p><strong>Python</strong></p>
+			<a href="https://github.com/Gianni0177/Local-format-converter">Repository</a>
+		</td>
+	</tr>
+</table>
 
 ---
 
@@ -41,20 +61,8 @@ Right now I mostly play with:
 - Building local-first tools that do one job cleanly
 - Keeping experiments small enough to ship and weird enough to remember
 
-## Stats
+<hr>
 
-<div align="center">
-
-![Gianni0177's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gianni0177&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gianni0177&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-Discord: `GX0177#3415` | Telegram: [@gianni_0177](https://t.me/gianni_0177)
-
-</div>
+<p align="center">
+	Discord: <code>GX0177#3415</code> | Telegram: <a href="https://t.me/gianni_0177">@gianni_0177</a>
+</p>
