@@ -51,7 +51,7 @@ Right now I mostly play with:
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [JuanLab](https://github.com/Juan0177/JuanLab) | Personal GitHub Pages site with pages for Spyral Abyss, Imaginarium Theater, Stygian Onslaught, and current character guides. | JavaScript, CSS, HTML |
+| [JuanLab](https://github.com/Juan0177/JuanLab) | Personal GitHub Pages site with pages for for a certain game. | JavaScript, CSS, HTML |
 | [Local-format-converter](https://github.com/Juan0177/Local-format-converter) | Simple multi-format converter, still evolving. | Python |
 | [bmi-studio](https://github.com/Juan0177/bmi-studio) | A Saturday evening thingy that became a repo. | JavaScript |
 | [Batch-project](https://github.com/Juan0177/Batch-project) | Scripts and automation experiments. | PowerShell |
