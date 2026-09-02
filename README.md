@@ -21,7 +21,7 @@
 	<tr>
 		<td width="50%" valign="top">
 			<h3>JuanLab</h3>
-			<p>Personal GitHub Pages site for guides, rotations, notes, and experiments.</p>
+			<p>Personal GitHub Pages site for a certain game.</p>
 			<p><strong>JavaScript • CSS • HTML</strong></p>
 			<a href="https://github.com/Juan0177/JuanLab">Repository</a> · <a href="https://Juan0177.github.io/JuanLab/">Live site</a>
 		</td>
