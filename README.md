@@ -53,7 +53,7 @@ Right now I mostly play with:
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [JuanLab](https://github.com/Juan0177/JuanLab) | Personal GitHub Pages site with pages for for a certain game. | JavaScript, CSS, HTML |
-| [PixelCrop](https://github.com/Juan0177/pixelCrop) | Local-first image background removal tool running in the browser. | JavaScript, WebAssembly, ONNX |
+| [PixelCrop](https://github.com/Juan0177/pixelCrop) WIP | Local-first image background removal tool running in the browser. | JavaScript, WebAssembly, ONNX |
 | [Local-format-converter](https://github.com/Juan0177/Local-format-converter) | Simple multi-format converter, still evolving. | Python |
 | [bmi-studio](https://github.com/Juan0177/bmi-studio) | A Saturday evening thingy that became a repo. | JavaScript |
 | [Batch-project](https://github.com/Juan0177/Batch-project) | Scripts and automation experiments. | PowerShell |
