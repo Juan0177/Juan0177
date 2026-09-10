@@ -9,6 +9,7 @@
 				<a href="https://discord.com/users/803347510655320135"><img src="https://img.shields.io/badge/Discord-GX0177%233415-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: GX0177#3415"></a>
 				<a href="https://t.me/gianni_0177"><img src="https://img.shields.io/badge/Telegram-gianni__0177-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: gianni_0177"></a>
 				<a href="https://Juan0177.github.io/JuanLab/"><img src="https://img.shields.io/badge/JuanLab-Live%20site-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="JuanLab live site"></a>
+				<a href="https://Juan0177.github.io/pixelCrop/"><img src="https://img.shields.io/badge/PixelCrop-Live%20site-d9f06a?style=for-the-badge&logo=githubpages&logoColor=111827" alt="PixelCrop live site"></a>
 			</p>
 	</td>
 	<td width="42%" align="center" valign="middle">
@@ -52,6 +53,7 @@ Right now I mostly play with:
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [JuanLab](https://github.com/Juan0177/JuanLab) | Personal GitHub Pages site with pages for for a certain game. | JavaScript, CSS, HTML |
+| [PixelCrop](https://github.com/Juan0177/pixelCrop) | Local-first image background removal tool running in the browser. | JavaScript, WebAssembly, ONNX |
 | [Local-format-converter](https://github.com/Juan0177/Local-format-converter) | Simple multi-format converter, still evolving. | Python |
 | [bmi-studio](https://github.com/Juan0177/bmi-studio) | A Saturday evening thingy that became a repo. | JavaScript |
 | [Batch-project](https://github.com/Juan0177/Batch-project) | Scripts and automation experiments. | PowerShell |
