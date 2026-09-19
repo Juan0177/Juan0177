@@ -45,6 +45,7 @@ Right now I mostly play with:
 
 - JavaScript for web experiments and GitHub Pages projects
 - Python for local utilities and converters
+- C# / .NET for games and desktop experiments
 - PowerShell for scripts and automation
 - Static sites, small tools, and content dashboards
 
@@ -57,9 +58,11 @@ Right now I mostly play with:
 | [Local-format-converter](https://github.com/Juan0177/Local-format-converter) | Simple multi-format converter, still evolving. | Python |
 | [bmi-studio](https://github.com/Juan0177/bmi-studio) | A Saturday evening thingy that became a repo. | JavaScript |
 | [Batch-project](https://github.com/Juan0177/Batch-project) | Scripts and automation experiments. | PowerShell |
+| [tIndustry](https://github.com/Juan0177/tIndustry) | Belt logistics and market economics on a huge map — Mindustry meets Tiny Industry. | C#, .NET, Raylib |
 
 ## Current focus
 
+- Growing [tIndustry](https://github.com/Juan0177/tIndustry) — belt logistics, economy, and research loop
 - Improving JuanLab as a personal GitHub Pages space
 - Building local-first tools that do one job cleanly
 - Keeping experiments small enough to ship and weird enough to remember
