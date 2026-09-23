@@ -47,7 +47,7 @@ Right now I mostly play with:
 - Python for local utilities and converters
 - C# / .NET for games and desktop experiments
 - PowerShell for scripts and automation
-- Static sites, small tools, and content dashboards
+- Static (and dynamic) sites, small tools, and content dashboards
 
 ## Pinned projects
 
