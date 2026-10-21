@@ -8,7 +8,8 @@
 			<p>
 				<a href="https://discord.com/users/803347510655320135"><img src="https://img.shields.io/badge/Discord-GX0177%233415-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: GX0177#3415"></a>
 				<a href="https://t.me/gianni_0177"><img src="https://img.shields.io/badge/Telegram-gianni__0177-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: gianni_0177"></a>
-				<a href="https://github.com/Juan0177/tIndustry/releases/latest"><img src="https://img.shields.io/badge/tIndustry-v0.3.4-2ea44f?style=for-the-badge&logo=godotengine&logoColor=white" alt="tIndustry latest release"></a>
+				<a href="https://github.com/Juan0177/tIndustry/releases/latest"><img src="https://img.shields.io/github/v/release/Juan0177/tIndustry?style=for-the-badge&logo=godotengine&logoColor=white&label=tIndustry&color=2ea44f" alt="tIndustry latest release"></a>
+				<a href="https://juan0177.github.io/tIndustry/"><img src="https://img.shields.io/badge/tIndustry-Website-478cbf?style=for-the-badge&logo=githubpages&logoColor=white" alt="tIndustry website"></a>
 				<a href="https://Juan0177.github.io/JuanLab/"><img src="https://img.shields.io/badge/JuanLab-Live%20site-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="JuanLab live site"></a>
 				<a href="https://Juan0177.github.io/pixelCrop/"><img src="https://img.shields.io/badge/PixelCrop-Live%20site-d9f06a?style=for-the-badge&logo=githubpages&logoColor=111827" alt="PixelCrop live site"></a>
 			</p>
@@ -23,9 +24,9 @@
 	<tr>
 		<td width="50%" valign="top">
 			<h3>tIndustry</h3>
-			<p>Belt logistics and market economics on a huge map — Mindustry meets Tiny Industry. Official client on Godot 4 .NET.</p>
-			<p><strong>C# • .NET • Godot 4</strong></p>
-			<a href="https://github.com/Juan0177/tIndustry">Repository</a> · <a href="https://github.com/Juan0177/tIndustry/releases/latest">Download</a>
+			<p>Industrial logistics game — Mindustry meets Tiny Industry. Mine ores, belt them to the CORE, smelt, sell on a dynamic market and reinvest in research. Now with Mindustry-style building, biome maps and a 10-level campaign.</p>
+			<p><strong>C# • .NET 8 • Godot 4.4</strong></p>
+			<a href="https://github.com/Juan0177/tIndustry">Repository</a> · <a href="https://github.com/Juan0177/tIndustry/releases/latest">Download</a> · <a href="https://juan0177.github.io/tIndustry/">Website</a>
 		</td>
 		<td width="50%" valign="top">
 			<h3>Diff_Local</h3>
@@ -55,8 +56,9 @@ Right now I mostly play with:
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [tIndustry](https://github.com/Juan0177/tIndustry) | Belt logistics and market economics on a huge map — Mindustry meets Tiny Industry. Official client: Godot 4 .NET (Raylib legacy). | C#, .NET, Godot 4 |
-| [JuanLab](https://github.com/Juan0177/JuanLab) | Personal GitHub Pages site with pages for for a certain game. | JavaScript, CSS, HTML |
+| [tIndustry](https://github.com/Juan0177/tIndustry) | Industrial logistics game — Mindustry meets Tiny Industry: belts, smelting, dynamic market, research tree and a level-based campaign. Latest: v0.4.0 preview. | C#, .NET 8, Godot 4.4 |
+| [Diff_Local](https://github.com/Juan0177/Diff_Local) | Desktop diff viewer for medium-large text files, Myers engine in Rust. | Tauri 2, React, TypeScript, Rust |
+| [JuanLab](https://github.com/Juan0177/JuanLab) | Personal GitHub Pages site with pages for a certain game. | JavaScript, CSS, HTML |
 | [PixelCrop](https://github.com/Juan0177/pixelCrop) WIP | Local-first image background removal tool running in the browser. | JavaScript, WebAssembly, ONNX |
 | [Local-format-converter](https://github.com/Juan0177/Local-format-converter) | Simple multi-format converter, still evolving. | Python |
 | [bmi-studio](https://github.com/Juan0177/bmi-studio) | A Saturday evening thingy that became a repo. | JavaScript |
@@ -64,7 +66,7 @@ Right now I mostly play with:
 
 ## Current focus
 
-- Growing [tIndustry](https://github.com/Juan0177/tIndustry) — Godot client, belt logistics, economy, and research loop
+- Stabilizing the [tIndustry](https://github.com/Juan0177/tIndustry) v0.4.0 preview — Mindustry-style building and belts, biome maps, campaign, and on to a stable 0.4
 - Shipping [Diff_Local](https://github.com/Juan0177/Diff_Local) — fast local diffs for real-sized files
 - Improving JuanLab as a personal GitHub Pages space
 - Building local-first tools that do one job cleanly
